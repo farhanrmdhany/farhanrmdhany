@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning website development 🌠🌠🌠
 - 💞️ I’m looking to collaborate in various industries, such as mining, technology, gaming and more
 - 📫 Don't hesitate to contact me via email muhfardhany@gmail.com
-
--   LinkedIn - [Muhammad Farhan Ramadhany](https://www.linkedin.com/in/farhanramadhany/)
+- 🏢 Visit LinkedIn - [Muhammad Farhan Ramadhany](https://www.linkedin.com/in/farhanramadhany/) 👈👈👈
 
 <!---
 farhanrmdhany/farhanrmdhany is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
