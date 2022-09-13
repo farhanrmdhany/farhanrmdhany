@@ -1,9 +1,60 @@
+# Welcome to my GitHub 
+
+## Table of contents
+
+-   [Profile](#profile)
+-   [My projects](#my-projects)
+    -   [CV with HTML based](#my-cv)
+    -   [Simple personal site](#my-simple-personal-site)
+-   [Others](#others)
+    -   [Continued development](#continued-development)
+    -   [Useful resources](#useful-resources)
+-   [Author](#author)
+-   [Acknowledgments](#acknowledgments)
+
+##  Profile
 - 👋 Hi, I’m @farhanrmdhany or Farhan 😀
 - 👀 I’m interested in operations development, data analyst, and data engineer
 - 🌱 I’m currently learning website development 🌠🌠🌠
 - 💞️ I’m looking to collaborate in various industries, such as mining, technology, gaming and more
 - 📫 Don't hesitate to contact me via email muhfardhany@gmail.com
 - 🏢 Visit my [LinkedIn](https://www.linkedin.com/in/farhanramadhany/) 👈👈👈
+
+## My projects
+
+### My CV
+-   [Live Site](<https://farhanrmdhany.github.io/CV-HTML-Based/>)
+
+
+### My Simple Personal Site
+-   [Live Site](<https://farhanrmdhany.github.io/Simple-Personal-Website/>)
+
+### Frontend Mentor - QR code component solution 
+-   [Live Site](<https://farhanrmdhany.github.io/QR-Code-Challenges/>)
+
+If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
+
+### Continued development
+
+Continue to study frontend and backend website development. I hope I can become a professional full-stack developer!
+
+## Others
+
+### Useful resources
+
+-   [Web technology for developers](https://developer.mozilla.org/en-US/docs/Web) - Very helpful finding and implementing all HTML and CSS functions.
+-   [Bootstrap guide](https://getbootstrap.com/docs/5.2/getting-started/introduction/)
+-   [HTML cheat sheet](https://docs.emmet.io/cheat-sheet/)
+
+## Author
+
+-   LinkedIn - [Muhammad Farhan Ramadhany](https://www.linkedin.com/in/farhanramadhany/)
+-   Frontend Mentor - [@farhanrmdhany](https://www.frontendmentor.io/profile/farhanrmdhany)
+
+## Acknowledgments
+
+I would like to express my special gratitude to my mentor and colleagues who gave me the golden opportunity to do many wonderful projects, which also helped me in doing a lot of Research and I came to know about so many new things. I am really thankful to them.
+
 
 <!---
 farhanrmdhany/farhanrmdhany is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
