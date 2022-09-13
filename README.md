@@ -1,11 +1,12 @@
-# Welcome to my GitHub 
+#   🌠🌠🌠Welcome to My GitHub🌠🌠🌠
 
-## Table of contents
+## Table of Contents
 
 -   [Profile](#profile)
 -   [My projects](#my-projects)
-    -   [CV with HTML based](#my-cv)
+    -   [Curriculum vitae](#curriculum-vitae)
     -   [Simple personal site](#my-simple-personal-site)
+    -   [Frontend - QR Code Component Solution](#frontend---QR-code-component-solution)
 -   [Others](#others)
     -   [Continued development](#continued-development)
     -   [Useful resources](#useful-resources)
@@ -20,31 +21,31 @@
 - 📫 Don't hesitate to contact me via email muhfardhany@gmail.com
 - 🏢 Visit my [LinkedIn](https://www.linkedin.com/in/farhanramadhany/) 👈👈👈
 
-## My projects
+## My Projects
 
-### My CV
+### Curriculum Vitae
 -   [Live Site](<https://farhanrmdhany.github.io/CV-HTML-Based/>)
 
 
-### My Simple Personal Site
+### Simple Personal Site
 -   [Live Site](<https://farhanrmdhany.github.io/Simple-Personal-Website/>)
 
-### Frontend Mentor - QR code component solution 
+### Frontend - QR Code Component Solution 
 -   [Live Site](<https://farhanrmdhany.github.io/QR-Code-Challenges/>)
-
-If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
-
-### Continued development
-
-Continue to study frontend and backend website development. I hope I can become a professional full-stack developer!
 
 ## Others
 
-### Useful resources
+### My Progress
+
+Continue to study frontend and backend website development. I hope I can become a professional full-stack developer!
+Stay tuned for my upcoming projects!
+
+### Useful Resources
 
 -   [Web technology for developers](https://developer.mozilla.org/en-US/docs/Web) - Very helpful finding and implementing all HTML and CSS functions.
 -   [Bootstrap guide](https://getbootstrap.com/docs/5.2/getting-started/introduction/)
 -   [HTML cheat sheet](https://docs.emmet.io/cheat-sheet/)
+-   If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
 
 ## Author
 
