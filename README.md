@@ -23,15 +23,9 @@
 
 ## My Projects
 
-### Curriculum Vitae
--   [Live Site](<https://farhanrmdhany.github.io/CV-HTML-Based/>)
-
-
-### Simple Personal Site
--   [Live Site](<https://farhanrmdhany.github.io/Simple-Personal-Website/>)
-
-### Frontend - QR Code Component Solution 
--   [Live Site](<https://farhanrmdhany.github.io/QR-Code-Challenges/>)
+### [Curriculum Vitae](<https://farhanrmdhany.github.io/CV-HTML-Based/>)
+### [Simple Personal Site](<https://farhanrmdhany.github.io/Simple-Personal-Website/>)
+### [Frontend - QR Code Component Solution](<https://farhanrmdhany.github.io/QR-Code-Challenges/>)
 
 ## Others
 
