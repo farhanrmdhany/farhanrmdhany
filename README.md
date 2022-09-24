@@ -8,6 +8,7 @@
     -   [Simple personal site](#my-simple-personal-site)
     -   [Frontend - QR Code Component Solution](#frontend---QR-code-component-solution)
     -   [Tinder Dog - TinDog](#startup-website)
+    -   [Simple Dice Game!](#simple-dice-game)
 -   [Others](#others)
     -   [Continued development](#continued-development)
     -   [Useful resources](#useful-resources)
@@ -28,6 +29,7 @@
 ### [Simple Personal Site](<https://farhanrmdhany.github.io/Simple-Personal-Website/>)
 ### [Frontend - QR Code Component Solution](<https://farhanrmdhany.github.io/QR-Code-Challenges/>)
 ### [Startup Website](<https://farhanrmdhany.github.io/Startup-Tindog/>)
+### [Simple Dice Game](<https://farhanrmdhany.github.io/Simple-Dice-Game/>)
 
 ## Others
 
