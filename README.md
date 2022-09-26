@@ -9,6 +9,7 @@
     -   [Frontend - QR Code Component Solution](#frontend---QR-code-component-solution)
     -   [Tinder Dog - TinDog](#startup-website)
     -   [Simple Dice Game!](#simple-dice-game)
+    -   [Drum 🥁 Game](#drum-game)
 -   [Others](#others)
     -   [Continued development](#continued-development)
     -   [Useful resources](#useful-resources)
@@ -30,6 +31,7 @@
 ### [Frontend - QR Code Component Solution](<https://farhanrmdhany.github.io/QR-Code-Challenges/>)
 ### [Startup Website](<https://farhanrmdhany.github.io/Startup-Tindog/>)
 ### [Simple Dice Game](<https://farhanrmdhany.github.io/Simple-Dice-Game/>)
+### [Drum 🥁 Game](<https://farhanrmdhany.github.io/Drum-Game/>)
 
 ## Others
 
