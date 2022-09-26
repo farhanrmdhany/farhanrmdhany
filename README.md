@@ -9,7 +9,7 @@
     -   [Frontend - QR Code Component Solution](#frontend---QR-code-component-solution)
     -   [Tinder Dog - TinDog](#startup-website)
     -   [Simple Dice Game!](#simple-dice-game)
-    -   [Drum 🥁 Game](#drum-game)
+    -   [Drum 🥁 Game](#drum-🥁-game)
 -   [Others](#others)
     -   [Continued development](#continued-development)
     -   [Useful resources](#useful-resources)
