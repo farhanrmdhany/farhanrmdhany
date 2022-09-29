@@ -10,7 +10,7 @@
     -   [Tinder Dog - TinDog](#startup-website)
     -   [Simple Dice Game!](#simple-dice-game)
     -   [Drum 🥁 Game](#drum-🥁-game)
-    -   [🟥🟨 Simon Game 🟩🟦] (#🟥🟨-Simon-Game-🟩🟦)
+    -   [🟥🟨 Simon Game 🟩🟦](#🟥🟨-Simon-Game-🟩🟦)
 -   [Others](#others)
     -   [Continued development](#continued-development)
     -   [Useful resources](#useful-resources)
