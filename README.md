@@ -4,13 +4,6 @@
 
 -   [Profile](#profile)
 -   [Live site projects](#my-projects)
-    -   [Curriculum vitae](#curriculum-vitae)
-    -   [Simple personal site](#my-simple-personal-site)
-    -   [Frontend - QR Code Component Solution](#frontend---QR-code-component-solution)
-    -   [Tinder Dog - TinDog](#startup-website)
-    -   [Simple Dice Game!](#simple-dice-game)
-    -   [Drum 🥁 Game](#drum-🥁-game)
-    -   [🟥🟨 Simon Game 🟩🟦](#🟥🟨-Simon-Game-🟩🟦)
 -   [Others](#others)
     -   [Continued development](#continued-development)
     -   [Useful resources](#useful-resources)
