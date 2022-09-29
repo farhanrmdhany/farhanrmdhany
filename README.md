@@ -3,7 +3,7 @@
 ## Table of Contents
 
 -   [Profile](#profile)
--   [My projects](#my-projects)
+-   [Live site projects](#my-projects)
     -   [Curriculum vitae](#curriculum-vitae)
     -   [Simple personal site](#my-simple-personal-site)
     -   [Frontend - QR Code Component Solution](#frontend---QR-code-component-solution)
@@ -25,15 +25,15 @@
 - 📫 Don't hesitate to contact me via email muhfardhany@gmail.com
 - 🏢 Visit my [LinkedIn](https://www.linkedin.com/in/farhanramadhany/) 👈👈👈
 
-## My Projects
+## Live Site Projects
 
-### [Curriculum Vitae](<https://farhanrmdhany.github.io/CV-HTML-Based/>)
-### [Simple Personal Site](<https://farhanrmdhany.github.io/Simple-Personal-Website/>)
-### [Frontend - QR Code Component Solution](<https://farhanrmdhany.github.io/QR-Code-Challenges/>)
-### [Startup Website](<https://farhanrmdhany.github.io/Startup-Tindog/>)
-### [Simple Dice Game](<https://farhanrmdhany.github.io/Simple-Dice-Game/>)
-### [Drum 🥁 Game](<https://farhanrmdhany.github.io/Drum-Game/>)
-### [🟥🟨 Simon Game 🟩🟦](<https://farhanrmdhany.github.io/Simon-Game/>)
+-   [Curriculum Vitae](<https://farhanrmdhany.github.io/CV-HTML-Based/>)
+-   [Simple Personal Site](<https://farhanrmdhany.github.io/Simple-Personal-Website/>)
+-   [Frontend - QR Code Component Solution](<https://farhanrmdhany.github.io/QR-Code-Challenges/>)
+-   [Startup Website](<https://farhanrmdhany.github.io/Startup-Tindog/>)
+-   [Simple Dice Game](<https://farhanrmdhany.github.io/Simple-Dice-Game/>)
+-   [Drum 🥁 Game](<https://farhanrmdhany.github.io/Drum-Game/>)
+-   [🟥🟨 Simon Game 🟩🟦](<https://farhanrmdhany.github.io/Simon-Game/>)
 
 ## Others
 
