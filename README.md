@@ -10,6 +10,7 @@
     -   [Tinder Dog - TinDog](#startup-website)
     -   [Simple Dice Game!](#simple-dice-game)
     -   [Drum 🥁 Game](#drum-🥁-game)
+    -   [🟥🟨 Simon Game 🟩🟦] (#🟥🟨-Simon-Game-🟩🟦)
 -   [Others](#others)
     -   [Continued development](#continued-development)
     -   [Useful resources](#useful-resources)
@@ -32,6 +33,7 @@
 ### [Startup Website](<https://farhanrmdhany.github.io/Startup-Tindog/>)
 ### [Simple Dice Game](<https://farhanrmdhany.github.io/Simple-Dice-Game/>)
 ### [Drum 🥁 Game](<https://farhanrmdhany.github.io/Drum-Game/>)
+### [🟥🟨 Simon Game 🟩🟦](<https://farhanrmdhany.github.io/Simon-Game/>)
 
 ## Others
 
