@@ -3,7 +3,7 @@
 ## Table of Contents
 
 -   [Profile](#profile)
--   [Live site projects](#my-projects)
+-   [Live site projects](#live-site-projects)
 -   [Others](#others)
     -   [Continued development](#continued-development)
     -   [Useful resources](#useful-resources)
